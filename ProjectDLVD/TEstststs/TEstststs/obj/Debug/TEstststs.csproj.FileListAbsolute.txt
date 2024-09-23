@@ -1,0 +1,10 @@
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\bin\Debug\TEstststs.exe.config
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\bin\Debug\TEstststs.exe
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\bin\Debug\TEstststs.pdb
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\obj\Debug\TEstststs.csproj.AssemblyReference.cache
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\obj\Debug\TEstststs.Form1.resources
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\obj\Debug\TEstststs.Properties.Resources.resources
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\obj\Debug\TEstststs.csproj.GenerateResource.cache
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\obj\Debug\TEstststs.csproj.CoreCompileInputs.cache
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\obj\Debug\TEstststs.exe
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\TEstststs\TEstststs\obj\Debug\TEstststs.pdb

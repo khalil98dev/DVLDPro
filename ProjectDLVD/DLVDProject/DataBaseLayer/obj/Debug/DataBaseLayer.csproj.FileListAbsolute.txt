@@ -1,0 +1,6 @@
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.AssemblyReference.cache
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.CoreCompileInputs.cache
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\DataBaseLayer\obj\Debug\DataBaseLayer.pdb

@@ -1,0 +1,9 @@
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\bin\Debug\DataBaseLayer.dll
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\bin\Debug\DataBaseLayer.pdb
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\khalilProjects\C# Projects\c#\Couse19-DLLV\ProjectDLVD\DLVDProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
